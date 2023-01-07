@@ -1654,7 +1654,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 16px;
-  font-family: Monaco !important;
+  font-family: Monaco, Helvetica, "San Francisco", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
